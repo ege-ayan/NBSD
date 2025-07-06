@@ -205,7 +205,7 @@ sudo dnf install ffmpeg
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/ege-ayan/NBSD.git
 cd NBSD
 ```
 
